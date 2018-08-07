@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="NoInternet">No internet connection</string>
+    <string name="NoNewsFound">No news found</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+
+    <string name="settings_article_title">Title of the article</string>
+    <string name="settings_articleTitle_key" translatable="false">articleTitle</string>
+    <string name="settings_articleTitle_default" translatable="false">All articles</string>
+
+    <string name="settings_sectionName">Section (All sections, football, film, sport, technology)</string>
+    <string name="settings_sectionName_key" translatable="false">sectionName</string>
+    <string name="settings_sectionName_default" translatable="false">All sections</string>
+
+    <string name="settings_author">Author</string>
+    <string name="settings_author_key" translatable="false">author</string>
+    <string name="settings_author_default" translatable="false">All authors</string>
+
+    <string name="settings_pubTime">Published Date (format: yyyy-mm-dd)</string>
+    <string name="settings_pubTime_key" translatable="false">Published Date</string>
+    <string name="settings_pubTime_default" translatable="false">Today</string>
+
+</resources>

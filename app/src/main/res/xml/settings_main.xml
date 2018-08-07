@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/settings_title">
+
+
+    <EditTextPreference
+        android:defaultValue="@string/settings_articleTitle_default"
+        android:inputType="text"
+        android:key="@string/settings_articleTitle_key"
+        android:selectAllOnFocus="true"
+        android:title="@string/settings_article_title" />
+
+    <EditTextPreference
+        android:defaultValue="@string/settings_sectionName_default"
+        android:inputType="text"
+        android:key="@string/settings_sectionName_key"
+        android:selectAllOnFocus="true"
+        android:title="@string/settings_sectionName" />
+
+    <EditTextPreference
+        android:defaultValue="@string/settings_author_default"
+        android:inputType="text"
+        android:key="@string/settings_author_key"
+        android:selectAllOnFocus="true"
+        android:title="@string/settings_author" />
+
+    <EditTextPreference
+        android:maxLength="10"
+        android:defaultValue="@string/settings_pubTime_default"
+        android:inputType="text"
+        android:key="@string/settings_pubTime_key"
+        android:selectAllOnFocus="true"
+        android:title="@string/settings_pubTime" />
+
+</PreferenceScreen>

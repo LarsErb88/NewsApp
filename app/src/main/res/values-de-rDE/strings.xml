@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nachrichten-App</string>
+    <string name="NoInternet">Keine Internetverbindung</string>
+    <string name="NoNewsFound">Keine Nachrichten gefunden</string>
+    <string name="settings_menu_item">Einstellungen</string>
+    <string name="settings_title">Nachrichten Einstellungen</string>
+    <string name="settings_article_title">Artikelname</string>
+    <string name="settings_sectionName">Sektion (All sections, football, film, sport, technology)</string>
+    <string name="settings_author">Autor</string>
+    <string name="settings_pubTime">Veröffentlichungsdatum (Format: yyyy-mm-dd)</string>
+</resources>
